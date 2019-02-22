@@ -1,0 +1,6 @@
+阅后即焚
+
+方程：
+	命名：toString/to_string
+	备注：至少备注作者
+	测试：尽量写unit test
