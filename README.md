@@ -1,4 +1,4 @@
-repo created by Qinglong study group
+Repository created by Qinglong study group
 group member:
 HongBozhan
 PanJiaxuan
