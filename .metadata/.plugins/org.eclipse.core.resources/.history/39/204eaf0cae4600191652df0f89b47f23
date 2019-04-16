@@ -1,0 +1,5 @@
+package pkg.view;
+
+public class AppController {
+
+}
